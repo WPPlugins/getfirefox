@@ -1,0 +1,17 @@
+/* wrapper */
+#getfirefox,#getfirefox div{padding:0;margin:0;}
+/* counter layout */
+#getfirefox p{padding:0;margin:0;font-size:80%;}
+/* common button settings */
+#getfirefox div a:link,#getfirefox div a:visited,#getfirefox div a:hover,#getfirefox div a:active{text-indent:-9999px !important;display:block !important;margin:0 !important;padding:0 !important;}
+/* layout specific button settings */
+.getfirefox-1 a:link,.getfirefox-1 a:visited,.getfirefox-1 a:hover,.getfirefox-1 a:active{width:88px;height:31px;background:url(img/1.gif) no-repeat scroll 0 0 transparent;}
+.getfirefox-1-de_DE a{background:url(img/1-de_DE.gif) no-repeat scroll 0 0 transparent !important;}
+.getfirefox-2 a:link,.getfirefox-2 a:visited,.getfirefox-2 a:hover,.getfirefox-2 a:active{width:80px;height:15px;background:url(img/2.gif) no-repeat scroll 0 0 transparent;}
+.getfirefox-2-de_DE a{background:url(img/2-de_DE.gif) no-repeat scroll 0 0 transparent !important;}
+.getfirefox-3 a:link,.getfirefox-3 a:visited,.getfirefox-3 a:hover,.getfirefox-3 a:active{width:30px;height:28px;background:url(img/3.gif) no-repeat scroll 0 0 transparent;}
+.getfirefox-3-de_DE a{background:url(img/3-de_DE.gif) no-repeat scroll 0 0 transparent !important;}
+.getfirefox-4 a:link,.getfirefox-4 a:visited,.getfirefox-4 a:hover,.getfirefox-4 a:active{width:120px;height:121px;background:url(img/4.gif) no-repeat scroll 0 0 transparent;position:absolute;top:0px;left:0px;z-index:999999;}
+.getfirefox-4-de_DE a{background:url(img/4-de_DE.gif) no-repeat scroll 0 0 transparent !important;}
+.getfirefox-5 a:link,.getfirefox-5 a:visited,.getfirefox-5 a:hover,.getfirefox-5 a:active{width:120px;height:121px;background:url(img/5.gif) no-repeat scroll 0 0 transparent;position:absolute;top:0px;right:0px;z-index:999999;}
+.getfirefox-5-de_DE a{background:url(img/5-de_DE.gif) no-repeat scroll 0 0 transparent !important;}

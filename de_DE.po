@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: getfirefox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-09 17:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: getfirefox.php:23
+msgid "Displays a \"GetFirefox\" button in the sidebar of your blog."
+msgstr "Zeige einen \"GetFirefox\" Button in der Blog-Sidebar an."
+
+#: getfirefox.php:62
+msgid "Icon and text, rounded border."
+msgstr "Icon und Text, rund. "
+
+#: getfirefox.php:63
+msgid "Icon and text, edgy border."
+msgstr "Icon und Text, eckig."
+
+#: getfirefox.php:64
+msgid "Icon only, rounded border."
+msgstr "Nur Icon, rund."
+
+#: getfirefox.php:65
+msgid "Pagepeel, top left."
+msgstr "Pagepeel oben links."
+
+#: getfirefox.php:66
+msgid "Pagepeel, top right."
+msgstr "Pagepeel oben rechts."
+
+#: getfirefox.php:158
+msgid "Note"
+msgstr "Achtung"
+
+#: getfirefox.php:158
+msgid "This layout will not appear in the sidebar but in a page corner!"
+msgstr "Dieses Layout wird nicht in der Sidebar angezeigt sondern in einer oberen Ecke der Webseite."
+
+#: getfirefox.php:159
+msgid "Change title and layout on the"
+msgstr "Ändere Titel und Layout auf der"
+
+#: getfirefox.php:163
+msgid "option page"
+msgstr "options Seite"
+
+#: getfirefox.php:189
+msgid "Title"
+msgstr "Titel"
+
+#: getfirefox.php:190
+msgid "Layout"
+msgstr "Layout"
+
+#: getfirefox.php:191
+msgid "Show only to not Firefox users?"
+msgstr "Zeige Button nur für nicht Firefox-Nutzer?"
+
+#: getfirefox.php:192
+msgid "Show download count?"
+msgstr "Zeige die Anzahl der Downloads?"
+
+#: getfirefox.php:193
+msgid "Update download count after "
+msgstr "Aktualisiere den Download counter nach "
+
+#: getfirefox.php:201
+msgid "Integration"
+msgstr "Integration"
+
+#: getfirefox.php:203
+msgid "If your Theme is widget ready, go to <a href=\"widgets.php\">Themes -> Widgets</a> and activate the \"GetFirefoxWidget\"."
+msgstr "Wenn dein Theme Widgets unterstützt, aktiviere das \"GetFirefoxWidget\" Widget unter <a href=\"widgets.php\">Themes -> Widgets</a>."
+
+#: getfirefox.php:204
+msgid "Otherwise you have to past this code snippet \"<code style=\"background-color:#ddd;\">&lt;?php if(function_exists('get_firefox'))get_firefox(); ?&gt;</code>\" to the template file of your choice. Most likely <em>sidebar.php</em>."
+msgstr "Ansonsten musst du diesen Codeschnipsel \"<code style=\"background-color:#ddd;\">&lt;?php if(function_exists('get_firefox'))get_firefox(); ?&gt;</code>\" in dein Template einbauen. Höchstwahrscheinlich in die Datei <em>sidebar.php</em>."
+
+#: getfirefox.php:207
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: getfirefox.php:220
+msgid "save settings"
+msgstr "Einstellungen speichern"
+
+#: getfirefox.php:298
+msgid "yes"
+msgstr "ja"
+
+#: getfirefox.php:302
+msgid "no"
+msgstr "nein"
+
